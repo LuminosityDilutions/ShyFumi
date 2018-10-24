@@ -1,0 +1,2 @@
+# ShyFumi
+my Discord bot
